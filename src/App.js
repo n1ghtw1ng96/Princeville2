@@ -64,7 +64,7 @@ function App() {
 
   return (
     <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
-      <h1>📄 Uploaded Documents</h1>
+      <h1>📄 PHCA CDC Data (Test)</h1>
       <input
         type="text"
         value={searchTerm}
